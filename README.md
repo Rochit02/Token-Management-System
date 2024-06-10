@@ -48,9 +48,9 @@ Follow these steps to get the project up and running on your local machine.
    ```sh
    git clone https://github.com/yourusername/token-management-system.git
 
-2. **Navigate to the project directory:**
-   
-   ```cd token-management-system```
+2. **Navigate to the project directory:** 
+   ``` sh
+   cd token-management-system
 
 3. **Import the database:**
    - From the file SQL.txt, use the query in it to create new database and required tables for the application.
