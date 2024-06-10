@@ -62,20 +62,24 @@ Follow these steps to get the project up and running on your local machine.
 ## 📂 Project Structure
 ```
 token-management-system/
-├── css/
-│   └── styles.css
-├── js/
-│   └── scripts.js
-├── php/
-│   ├── create_token.php
-│   ├── delete_token.php
-│   ├── prioritize_token.php
-│   ├── update_counter_status.php
+├── Application/
+│   ├── css/
+│   │   └── styles.css
+│   ├── counters.php
 │   ├── display.php
-│   └── config.php
-├── index.html
-├── display.html
-└── README.md
+│   ├── fetch_assigned_tokens.php
+│   ├── fetch_counters.php
+│   ├── fetch_not_arrived_tokens.php
+│   ├── fetch_queued_tokens.php
+│   ├── index.html
+│   ├── login.php
+│   ├── logout.php
+│   ├── mysql.txt
+│   ├── prioritize.php
+│   ├── register.php
+│   └── tokens.php
+├── README.md
+└── LICENSE
 ```
 
 ## 📸 Screenshots
@@ -96,10 +100,13 @@ token-management-system/
 
 ## 📊 Top Languages
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochit02&repo=token-management-system&layout=compact&theme=radical)
 
 ## 📧 Contact
 
 Rochit Madamanchi - madamanchi4@gmail.com
 
 Project Link: https://github.com/Rochit02/Token-Management-System
+
+## ⚖️ License
+Distributed under the MIT License. See LICENSE for more information.
