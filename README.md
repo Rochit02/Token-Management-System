@@ -137,4 +137,5 @@ Project Link: https://github.com/Rochit02/Token-Management-System
 
 ## ⚖️ License
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE). See the LICENSE file for details.
+Token Management System © 2024 by Rochit Madamanchi is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
 
