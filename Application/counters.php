@@ -48,7 +48,7 @@ $current_status = $conn->query("SELECT counter_status FROM users WHERE id='$user
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Counters</title>
-    <link rel="stylesheet" href="styles1.css">
+    <link rel="stylesheet" href="css/styles1.css">
 </head>
 <body>
     <header>
