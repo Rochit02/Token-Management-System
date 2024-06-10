@@ -120,9 +120,6 @@ token-management-system/
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochit02&repo=token-management-system&layout=compact&theme=radical)
 
----
-
-⭐️ Don't forget to give the project a star if you found it helpful!
 
 ## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -143,3 +140,6 @@ Project Link: https://github.com/Rochit02/Token-Management-System
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE). See the LICENSE file for details.
 Token Management System © 2024 by Rochit Madamanchi is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
 
+---
+
+⭐️ Don't forget to give the project a star if you found it helpful!
