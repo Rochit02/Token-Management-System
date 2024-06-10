@@ -136,4 +136,5 @@ Rochit Madamanchi - madamanchi4@gmail.com
 Project Link: https://github.com/Rochit02/Token-Management-System
 
 ## ⚖️ License
-Distributed under the MIT License. See LICENSE for more information.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE). See the LICENSE file for details.
+
