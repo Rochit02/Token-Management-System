@@ -92,6 +92,7 @@ token-management-system/
 
 ### Index Page
 
+![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/9cd039a0-f31e-439f-b259-76d762399a75)
 
 
 ### Token Management
