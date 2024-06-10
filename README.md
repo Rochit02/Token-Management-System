@@ -94,14 +94,25 @@ token-management-system/
 
 ![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/9cd039a0-f31e-439f-b259-76d762399a75)
 
+### Register Page
 
-### Token Management
+![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/4c8132db-eea0-4743-80d6-e8c174700065)
 
+### Login Page
 
+![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/eaa39728-b6e5-4a69-93f1-e5fe23148c79)
+
+### Counter Management
+
+![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/db84fbe2-8f8a-42bd-9d4a-d2071ec8f6fc)
 
 ### Display Page
 
+![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/11c7cb90-8e0c-408a-bcf0-43f4d0c8a103)
 
+### Token Generator
+
+![image](https://github.com/Rochit02/Token-Management-System/assets/150697578/e6f54ec7-8587-4741-9b0c-379c25939c36)
 
 ## 📊 Top Languages
 
