@@ -15,6 +15,8 @@ Welcome to the Token Management System! This project is designed to streamline t
   - Active status
   - On a short break status
   - Counter closed status
+  - Up-on logging out, the counter is automatically set to display closed
+  - Up-on logging in, the counter is automatically set to display active
 
 - **Display Page**
   - Queued tokens
