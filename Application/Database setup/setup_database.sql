@@ -1,0 +1,17 @@
+CREATE DATABASE token_system;
+
+USE token_system;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    counter_status ENUM('Active', 'On a break', 'Counter closed') DEFAULT 'Active'
+);
+
+CREATE TABLE tokens (
+    token_number INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    status ENUM('queued', 'not_arrived', 'assigned', 'served') DEFAULT 'queued',
+    assigned_to INT DEFAULT NULL
+);
