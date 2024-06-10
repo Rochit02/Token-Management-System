@@ -59,7 +59,7 @@ Follow these steps to get the project up and running on your local machine.
    - Open a web browser and navigate to `http://localhost/token-management-system`.
 
 ## 📂 Project Structure
-
+```
 token-management-system/
 ├── css/
 │   └── styles.css
@@ -75,6 +75,7 @@ token-management-system/
 ├── index.html
 ├── display.html
 └── README.md
+```
 
 ## 📸 Screenshots
 
