@@ -63,8 +63,14 @@ Follow these steps to get the project up and running on your local machine.
 ```
 token-management-system/
 ├── Application/
+│   ├── Database setup/
+│   │   └── setup_database.sql
 │   ├── css/
-│   │   └── styles.css
+│   │   ├── styles.css
+│   │   ├── styles1.css
+│   │   ├── styles2.css
+│   │   ├── styles3.css
+│   │   └── styles4.css
 │   ├── counters.php
 │   ├── display.php
 │   ├── fetch_assigned_tokens.php
@@ -84,9 +90,7 @@ token-management-system/
 
 ## 📸 Screenshots
 
-
-
-### Dashboard
+### Index Page
 
 
 
